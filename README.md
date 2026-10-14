@@ -25,7 +25,8 @@ Based on those patterns, I put together a three-part plan for reducing crime hot
 ## Files
  
 - `arrests.csv`: the raw data
-- `index.html`: the full report with code and charts
+- `index.html`: an HTML export of the notebook, easier to read without running anything
+- 'DS220_Project2_SeanKennelly.ipynb': the Jupyter notebook with all the code, cleaning steps, and charts
 To see the analysis, open the HTML file in your browser.
  
 ## About me
